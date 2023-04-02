@@ -22,7 +22,7 @@ body {
 }
 .single-card {
 	text-align: center;
-	transition: all 1.5s cubic-bezier(0.7, -0.5, 0.3, 1.8);
+	transition: all 1s cubic-bezier(0.7, -0.5, 0.3, 1.8);
 	transform-style: preserve-3d;
 }
 .wrapper:hover .single-card {
